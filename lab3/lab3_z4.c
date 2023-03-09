@@ -1,8 +1,9 @@
+// Karol Jabłoński 09.03.2023
 #include <stdio.h>
 #include <math.h>
 
 int main(){
-    int a,b,x,y,z;
+    int a,b;
     printf("Podaj wartosc a=");
     scanf("%d", &a);
     printf("Podaj wartosc b=");

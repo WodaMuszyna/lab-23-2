@@ -1,3 +1,4 @@
+// Karol Jabłoński 09.03.2023
 #include <stdio.h>
 
 int main(){
