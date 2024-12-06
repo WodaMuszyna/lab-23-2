@@ -1,0 +1,5 @@
+linia 6: brak inicjalizacji zmiennej suma, poprawny kod: int suma = 0;
+linia 7: nieprawidłowy warunek pętli, poprawny kod: i<n
+linia 20: brak inicjalizacji zmiennej i, poprawny kod: int i = 0;
+linia 24: nieprawidłowe odwołanie do indeksu tablicy, poprawny kod: wartosci[i++]
+brak usunięcia tablicy dynamicznej z pamięci, poprawny kod: delete [] wartosci;

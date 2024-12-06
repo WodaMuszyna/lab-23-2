@@ -1,0 +1,3 @@
+linia 6: zmienna wartosc_narast nie jest zainicjowana, więc mnożenie przez nią daje wynik 0, poprawny kod: int wartosc_narast = 1;
+linia 10: zwracana jest zmienna podstawa zamiast zmienna wartosc_narast, poprawny kod: return wartosc_narast;
+linia 21: zamienione argumenty funkcji, poprawny kod: cout<<wykladnik(podstawa, wykl);
